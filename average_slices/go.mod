@@ -1,3 +1,3 @@
-module github.com/zamyatin/go-averages
+module github.com/zamyatin/HeadFirstGo/go-averages
 
 go 1.17
