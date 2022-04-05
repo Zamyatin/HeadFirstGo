@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/zamyatin/HeadFirstGo/go-averages/datafile"
+	"github.com/zamyatin/HeadFirstGo/average_slices/datafile"
 )
 
 func main() {
